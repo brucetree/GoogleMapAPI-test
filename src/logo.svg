@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" x="0" y="0" viewBox="0 0 64 64"
+     style="enable-background:new 0 0 512 512" xml:space="preserve"><g><g xmlns="http://www.w3.org/2000/svg" id="Map_Pin-2" data-name="MapPin"><path d="m32 0a24.028 24.028 0 0 0 -24 24c0 16.228 22.342 38.756 23.293 39.707a1 1 0 0 0 1.414 0c.951-.951 23.293-23.479 23.293-39.707a24.028 24.028 0 0 0 -24-24z" fill="#FB5968" data-original="#fb5968"></path> <circle
+        cx="32" cy="24" fill="#D8304C" r="13" data-original="#d8304c"></circle></g><text x="50%" y="28"
+                                                                                                      fill="white"
+                                                                                                      font-weight="bold"
+                                                                                                      dominant-baseline="middle"
+                                                                                                      text-anchor="middle"
+                                                                                                      font-size="1.4em"
+                                                                                                      font-family="Roboto">1</text></g></svg>
