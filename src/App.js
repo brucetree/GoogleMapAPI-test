@@ -124,7 +124,8 @@ function Map() {
             >
                 <div>
                 <p>Created At {formatRelative(selectedpark.time, new Date())}</p>
-                    <p>{selectedpark.lat}</p>
+                    <p>lat:{selectedpark.lat}</p>
+                    <p>lng:{selectedpark.lng}</p>
                 </div>
             </InfoWindow>
         ):null}
